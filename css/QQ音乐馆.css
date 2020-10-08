@@ -1,0 +1,27 @@
+li{
+	display:inline-block;
+}
+
+body ul>li>div img:nth-child(1){
+	width: 200px;
+	height: 200xp;
+}
+.title{
+	font-size:16px;
+	color: #4D4D4D;
+	font-weight: bold;
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+.name{
+	font-size: 14px;
+	color: #640000 ;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+.count{
+	font-size: 12px;
+	color: blue;
+	margin-top:10px;
+	margin-bottom: 10px;
+}
